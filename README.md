@@ -1,4 +1,4 @@
-# React_ConditionalRendering
+# React: Conditional Rendering
 
 This project is just beginning of the big trip.
 
